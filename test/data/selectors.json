@@ -1,0 +1,10 @@
+{
+  "selectors": {
+    "inputField": "input.gLFyf",
+    "submitBtn": ".gNO89b",
+    "microphone": ".HPVvwb",
+    "searchIcon": ".wFncld",
+    "xBtn": ".lBbtTb",
+    "firstResult": ".cfxYMc"
+  }
+}
